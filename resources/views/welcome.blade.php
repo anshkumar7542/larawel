@@ -1,0 +1,1 @@
+<a href="{{Route('details')}}">click here to move to the named route</a>
